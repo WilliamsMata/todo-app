@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <TodoList /> Debe de hacer match con el snapshot 1`] = `
+<div>
+  <ul
+    class="list-group"
+  />
+</div>
+`;
